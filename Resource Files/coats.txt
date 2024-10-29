@@ -1,0 +1,11 @@
+l,black,960,107,https://www.zalando.ro/antioch-palton-clasic-black-ai722t042-q11.html?size=L&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+s,brown,960,47,https://www.zalando.ro/antioch-palton-clasic-black-ai722t042-q11.html?size=L&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+m,black,960,36,https://www.zalando.ro/antioch-palton-clasic-black-ai722t042-q11.html?size=L&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+xl,beige,710,67,https://www.zalando.ro/antioch-palton-clasic-beige-ai721u000-b11.html?size=46&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+m,beige,710,29,https://www.zalando.ro/antioch-palton-clasic-beige-ai721u000-b11.html?size=46&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+xxs,white,299,28,https://www.aboutyou.ro/p/pull-bear/palton-de-primavara-toamna-13807062
+l,white,299,62,https://www.aboutyou.ro/p/pull-bear/palton-de-primavara-toamna-13807062
+m,white,299,36,https://www.aboutyou.ro/p/pull-bear/palton-de-primavara-toamna-13807062
+m,blue,410,22,https://www.zalando.ro/pier-one-trenci-dark-blue-pi922na0g-k11.html?size=S&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+l,green,410,55,https://www.zalando.ro/pier-one-trenci-dark-blue-pi922na0g-k11.html?size=S&allophones=0&wmc=SEM400_NB_GO._3625232631_17072920796_137263143538.&opc=2211&mpp=google
+a,a,1,1,a
