@@ -1,0 +1,2 @@
+Trench coats shopping application that has Admin/User options. Admin can add/update/delete trench coats, while the User can go shopping(add coats to basket and then proceed to checkout).
+When the user chooses to see a coat a link is followed and the tab with the chosen coat is opened in browser. The user can see the shopping basket with all the added coats and the total price(in CSV or HTML format).
